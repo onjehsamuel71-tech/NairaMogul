@@ -1,0 +1,3 @@
+SUPABASE_URL=https://unugbupfdigwjdfnewhq.supabase.co
+SUPABASE_KEY=sb_publishable_zx_1-ajF0tto_9G5i1lg1w_-NgdHsFH
+PORT=4000

@@ -1,0 +1,1 @@
+export $(grep -v '^#' server/.env | xargs) && npm start
